@@ -1,0 +1,66 @@
+fname,lname,company,Designation,companyEmail,contactNo,password,companyWebsite,companySize,companyType,industry,state,city,accepted
+Cristiano,Ronaldo,ABC,Marketing Head,dominique_kessler@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Tech,Product,Mumbai,Maharashta,0
+Virat,Kohli,DEF,Marketing Intern,breana.romaguera84@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Lifestyle,Service,Mumbai,Maharashta,0
+Justin,Bieber,GHI,Marketing Manager,gideon77@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Automobiles,Retail,Mumbai,Maharashta,0
+Dwayne,Johnson,JKL,Marketing Head,henri_wyman@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Animals & Pets,Corporate,Mumbai,Maharashta,0
+Zayn,Malik,MNO,Marketing Intern,jaquelin_ullrich@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Family & Kids,Online,Mumbai,Maharashta,0
+Katrina,Kaif,PQR,Marketing Manager,abbie71@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Fashion,Luxury,Pune,Maharashta,0
+Anushka,Sharm,STU,Marketing Head,emilio_schulist@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Other,Fashion,Pune,Maharashta,0
+Narendra,Modi,VWX,Marketing Intern,jermain46@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Home,Education,Pune,Maharashta,0
+Georgina,Rodríguez,YZA,Marketing Head,keshaun_leffler@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Art,Electronic,Pune,Maharashta,1
+Akshay,Kumar,ABC,Marketing Intern,fredy_bergstrom93@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Travel,Product,Pune,Maharashta,1
+Chris,Hemsworth,DEF,Marketing Manager,ryann.smith59@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Food and Dining,Service,Nagpur,Maharashta,1
+Olivia,Rodrigo,GHI,Marketing Head,fiona86@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Business,Retail,Nagpur,Maharashta,1
+Rashmika,Mandanna,JKL,Marketing Intern,rigoberto.hagenes69@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Events,Corporate,Nagpur,Maharashta,1
+Priyanka,Chopra,MNO,Marketing Manager,elaina.crona43@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Tech,Online,Nagpur,Maharashta,1
+Shraddha,Kapoor,SJK,Marketing Head,lessie19@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Lifestyle,Luxury,Nagpur,Maharashta,1
+David,Beckham,AKD,Marketing Intern,evelyn.morissette39@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Automobiles,Fashion,Nagpur,Maharashta,1
+Alia,Bhat,WUR,Marketing Head,thomas_hartmann@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Animals & Pets,Education,Nagpur,Maharashta,1
+Shahrukh,Khan,MKL,Marketing Intern,itzel.cruickshank14@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Family & Kids,Electronic,Nagpur,Maharashta,1
+Salman,Khan,APS,Marketing Manager,helen68@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Fashion,Product,Banglore,Karnataka,1
+Nora,Fatehi,RTY,Marketing Head,zoe90@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Other,Service,Banglore,Karnataka,1
+Neha,Kakkar,ANB,Marketing Intern,cielo.jaskolski@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Home,Retail,Banglore,Karnataka,1
+Shakira,Shakira,FDS,Marketing Manager,melvin.roob34@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Art,Corporate,Banglore,Karnataka,1
+Varun,Dhawan,POI,Marketing Head,sonny_kozey53@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Travel,Online,Banglore,Karnataka,1
+Sara,Khan,KJH,Marketing Intern,shayna.swift20@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Food and Dining,Luxury,Delhi,Delhi,1
+Jannat,Rahmani,HGF,Marketing Head,katlyn_rice@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Business,Fashion,Delhi,Delhi,1
+Deepika,Padukone,NBV,Marketing Intern,myriam_bednar8@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Events,Education,Delhi,Delhi,1
+Allu,Arjun,BFE,Marketing Manager,josie_rippin@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Tech,Electronic,Delhi,Delhi,1
+Hrithik,Roshan,VHI,Marketing Head,clementina20@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Lifestyle,Product,Delhi,Delhi,1
+Rohit,Sharma,HJK,Marketing Intern,kathryne43@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Automobiles,Service,Delhi,Delhi,1
+KARTIK,AARYAN,POI,Marketing Manager,eudora45@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Animals & Pets,Retail,Delhi,Delhi,1
+Kriti,Sanon,MKL,Marketing Head,arnold81@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Family & Kids,Corporate,Lucknow,Uttarpradesh,1
+Shahid,Kapoor,APS,Marketing Intern,ebba_white83@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Fashion,Online,Lucknow,Uttarpradesh,1
+Disha,Patani,RTY,Marketing Head,sadye_rodriguez8@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Other,Luxury,Lucknow,Uttarpradesh,1
+Vijay,Deverakonda,ANB,Marketing Intern,vladimir_bruen43@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Home,Fashion,Lucknow,Uttarpradesh,1
+Ajey,Nagar,FDS,Marketing Manager,kianna_muller36@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Art,Education,Surat,Gujrat,1
+Johnny,Depp,POI,Marketing Head,lee.dietrich18@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Travel,Electronic,Surat,Gujrat,1
+Kiara,Advani,KJH,Marketing Intern,ervin34@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Food and Dining,Product,Surat,Gujrat,1
+Jacqueline,Fernandez,HGF,Marketing Manager,tyree_bosco0@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Business,Service,Surat,Gujrat,1
+Hardik,Pandya,NBV,Marketing Head,mathilde.olson@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Events,Retail,Surat,Gujrat,1
+Sunny,Leone,BFE,Marketing Intern,tremayne35@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Tech,Corporate,Surat,Gujrat,1
+Bhuvan,Bam,VHI,Marketing Head,russell56@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Lifestyle,Online,Kolkatta,West Bengal,1
+Anushka,Sen,HJK,Marketing Intern,cullen.feest36@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Automobiles,Luxury,Kolkatta,West Bengal,1
+Rohit,Zinjurke,POI,Marketing Manager,maxie23@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Animals & Pets,Fashion,Kolkatta,West Bengal,1
+Ashish,Chanchlani,MKL,Marketing Head,monserrate.rath@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Family & Kids,Education,Kolkatta,West Bengal,1
+Pooja,Hegde,APS,Marketing Intern,kian.becker87@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Fashion,Electronic,Kolkatta,West Bengal,1
+Vicky,Kaushal,RTY,Marketing Manager,roscoe.cruickshank@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Other,Product,Kolkatta,West Bengal,1
+Tiger,Shroff,ANB,Marketing Head,nico_huel@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Home,Service,Kolkatta,West Bengal,1
+Avneet,Kaur,FDS,Marketing Intern,lia_vandervort@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Art,Retail,Kolkatta,West Bengal,1
+Emilia,Clarke,POI,Marketing Head,orlando37@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Travel,Corporate,Kolkatta,West Bengal,1
+Shehnaaz,Gill,KJH,Marketing Intern,marta.sauer@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Food and Dining,Online,Udaipur,Rajasthan,1
+Sidharth,Malhotra,HGF,Marketing Manager,elroy.price@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Business,Luxury,Udaipur,Rajasthan,1
+Janhvi,Kapoor,NBV,Marketing Head,erwin_goyette35@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Events,Fashion,Udaipur,Rajasthan,1
+marshmello,marshmello,BFE,Marketing Intern,melba27@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Tech,Education,Udaipur,Rajasthan,1
+Urvashi,Rautela,VHI,Marketing Manager,tanya.larkin@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Lifestyle,Electronic,Udaipur,Rajasthan,1
+Kajal,Aggarwal,HJK,Marketing Head,wanda.flatley28@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Automobiles,Product,Udaipur,Rajasthan,1
+Sachin,Tendulkar,POI,Marketing Intern,albertha37@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Animals & Pets,Service,Udaipur,Rajasthan,1
+Marvel,Studios,MKL,Marketing Head,javier_schmidt81@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Family & Kids,Retail,Udaipur,Rajasthan,1
+Kapil,Sharma,APS,Marketing Intern,marcelle.morissette33@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Fashion,Corporate,Udaipur,Rajasthan,1
+Riyaz,Aly,RTY,Marketing Manager,zion22@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Other,Online,Udaipur,Rajasthan,1
+KL,Rahul,ANB,Marketing Head,ava.davis51@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Home,Luxury,Patna,Bihar,1
+Awez,Darbar,FDS,Marketing Intern,margarita28@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Micro(1-50),Art,Fashion,Patna,Bihar,1
+Amitabh,Bachchan,POI,Marketing Manager,karley24@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Small(51-500),Travel,Education,Patna,Bihar,1
+alexandra,daddario,KJH,Marketing Head,jazmyne18@gmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Medium(501-5000),Food and Dining,Electronic,Patna,Bihar,1
+Parineeti,Chopra,HGF,Marketing Intern,jaime69@hotmail.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,Large(5001-1000),Business,Product,Patna,Bihar,1
+Lea,Elui,NBV,Marketing Head,jevon.mante74@yahoo.com,9960930245,$2a$12$jmId.AHqWyaLcNq.CuCDqe232wMdDMoD8TIS5tF5bk3DdwfRerTea,htpps://abc.com,"Mega(10,000+)",Events,Service,Patna,Bihar,1

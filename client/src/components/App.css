@@ -1,0 +1,558 @@
+.categories-box {
+  margin: auto;
+}
+
+.search-bar{
+  float:left;
+  width:93%;
+}
+.search-btn{
+  float: left;
+  width: 7%;
+}
+
+.displayError {
+  font-size: xx-small;
+  margin: -2px;
+  color: #f10000;
+}
+
+.search{
+  width: 97%;
+  float: left;
+}
+
+.Filters{
+  width: 30%;
+  float: left;
+  padding-left: 3%;
+}
+
+.OpenCollab{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.Results{
+  width:70%;
+  float: left;
+}
+
+.Login {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+}
+.ProfileEditCats{
+  margin:2%
+}
+
+
+.InfluencerProfilePage {
+  height: 100vh;
+  width: 100%;
+  background: #B4E4FF ;
+  text-align: center;
+  padding-top:12%;
+}
+.BrandProfilePage {
+  height: 100vh;
+  width: 100%;
+  background: #B4E4FF;
+  text-align: center;
+}
+
+.profileCard{
+  margin: auto;
+}
+
+.loginLogo {
+  height: 10%;
+
+}
+
+.Login h1 {
+  font-size: 40px;
+  font-weight: 400;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+
+.Login h3 {
+  font-weight: 200;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 5%;
+}
+
+.BrandLogin h3 {
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 1%;
+}
+
+
+
+.RegisterBrand h3 {
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 1%;
+}
+
+.RegisterInfluencer h3 {
+  font-weight: 600;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 1%;
+}
+
+.RegisterAdmin h3 {
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 1%;
+}
+
+
+
+.InfluencerLogin h3 {
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+
+.AdminLogin h3 {
+  font-weight: 550;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+
+.BrandLogin h4 {
+  font-size: 75;
+  font-weight: 200;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 5%;
+}
+
+.InfluencerLogin h4 {
+  font-size: 75;
+  font-weight: 200;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 5%;
+}
+
+.AdminLogin h4 {
+  font-size: 75;
+  font-weight: 200;
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  padding-bottom: 5%;
+}
+
+
+.Login button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #fd5949;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+.BrandLogin button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #fd5949;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+.InfluencerLogin button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #fd5949;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+.AdminLogin button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #fd5949;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+.logindivL {
+  width: 50%;
+  float: left;
+}
+
+.logindivR {
+  width: 50%;
+  float: left;
+}
+
+.BrandLogin {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+}
+
+.InfluencerLogin {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+}
+
+.AdminLogin {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+}
+
+
+.RegisterInfluencer {
+  height: 110vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+  padding-top: 3%;
+
+
+}
+
+.RegisterBrand {
+  height: 120vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+  padding-top: 3%;
+  margin: auto;
+}
+
+.RegisterAdmin {
+  height: 100vh;
+  width: 100%;
+  background: radial-gradient(circle at 30% 107%,
+      #fdf497 0%,
+      #fdf497 5%,
+      #fd5949 45%,
+      #d6249f 60%,
+      #285aeb 90%);
+  text-align: center;
+  padding-top: 5%;
+}
+
+form {
+  padding: 2%;
+  position: relative;
+}
+
+.InfluencerLogin form input {
+  border: 1px solid rgba(252, 252, 252, 0.453);
+  background-color: rgba(252, 252, 252, 0.386);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+
+.BrandLogin form input {
+  border: 1px solid rgba(252, 252, 252, 0.453);
+  background-color: rgba(252, 252, 252, 0.386);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+
+.AdminLogin form input {
+  border: 1px solid rgba(252, 252, 252, 0.453);
+  background-color: rgba(252, 252, 252, 0.386);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+
+
+
+
+form input {
+  border: 1px solid rgba(252, 252, 252, 0.453);
+  background-color: rgba(252, 252, 252, 0.386);
+  width: 230%;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+
+.form-content {
+  float: left;
+}
+
+.form-img {
+  margin: auto;
+  display: flex;
+}
+
+.InfluencerDashboard {
+  height: 100vh;
+  width: 100%;
+  background: #ffffff;
+  height: 100vh;
+  font-family: 'Inter', sans-serif;
+}
+
+.flex-column {
+  width: 20%;
+  height: 100%;
+  background-color: rgba(111, 111, 111, 0.558);
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-box {
+  
+  background-color: #ffffff;
+  border-radius: 20px;
+  width: 75%;
+  text-align: left;
+  margin: auto;
+  display: flex;
+  padding: 5%;
+  margin-bottom: 5%;
+  
+}
+
+
+
+.form-box {
+
+  background-color: #ffffff;
+  border-radius: 20px;
+  width: 75%;
+  text-align: left;
+  margin: auto;
+  display: flex;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+.form-btn {
+  width: 100%;
+  background-color: #fd5949;
+
+  border: none;
+}
+
+.categories {
+  width: 75%;
+  height: 75%;
+  margin: auto;
+}
+
+.grid-items {
+  text-align: left;
+}
+
+.tab-text {
+  align-items: start !important;
+}
+
+.tabs-width {
+  max-width: 20%;
+  min-width: 20%;
+}
+
+.toolbox {
+  width: 50%;
+  float: left;
+}
+
+.admin-toolbox {
+  width: 50%;
+
+}
+
+.submit-btn {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #fd5949;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+  margin: 2%;
+}
+
+.submit-btn:disabled{
+  appearance: none;
+  outline: 0;
+  background-color: rgba(255, 255, 255, 0.384);
+  border: 0;
+  padding: 10px 15px;
+  color: #fd58493a;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+  margin: 2%;
+}
+
+
+
+main {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow-x: auto;
+}
+.main::-webkit-scrollbar {
+  width: 0px;
+  display: none;
+  background: transparent;
+}
+
+
+body{
+  margin-top:20px;
+  color: #1a202c;
+  text-align: left;
+  background-color: #B4E4FF;    
+}
+.main-body {
+  padding: 15px;
+  background-color: #B4E4FF; 
+}
+.card {
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0 solid rgba(0,0,0,.125);
+  border-radius: .25rem;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1rem;
+}
+
+.gutters-sm {
+  margin-right: -8px;
+  margin-left: -8px;
+}
+
+.gutters-sm>.col, .gutters-sm>[class*=col-] {
+  padding-right: 8px;
+  padding-left: 8px;
+}
+.mb-3, .my-3 {
+  margin-bottom: 1rem!important;
+}
+
+.bg-gray-300 {
+  background-color: #e2e8f0;
+}
+.h-100 {
+  height: 100%!important;
+}
+.shadow-none {
+  box-shadow: none!important;
+}
